@@ -1,0 +1,2 @@
+8
+; explanation: games 1, 2, and 5 are possible. spec. asks for sum of possible game IDs, i.e. 1 + 2 + 5 == 8
